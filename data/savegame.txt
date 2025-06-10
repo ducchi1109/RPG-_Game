@@ -1,0 +1,10 @@
+characterType:0
+health:160
+maxHealth:170
+baseDamage:14
+gold:80
+xp:50
+level:3
+secondWindUsed:0
+currentWeapon:Dagger
+inventory:Stick,Dagger,
